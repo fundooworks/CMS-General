@@ -1,0 +1,9 @@
+
+1. Install Docker follow the link https://docs.docker.com/docker-for-mac/install/
+
+2. Go to the root folder of the project /CMS-Gemeral 
+	Open command line interface and
+	then run command "docker-compose up"
+	Give it sometime to configure.
+
+3. Go to the http://localhost:1377/admin to access the tool.
